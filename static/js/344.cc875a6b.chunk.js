@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkimmortal_duo=self.webpackChunkimmortal_duo||[]).push([[344],{344:(e,r,n)=>{n.r(r),n.d(r,{default:()=>t});n(43);var o=n(579);function t(){return(0,o.jsxs)("div",{style:{textAlign:"center",marginTop:"3rem"},children:[(0,o.jsx)("h1",{children:"404 - Page Not Found"}),(0,o.jsx)("p",{children:"Sorry, we couldn\u2019t find what you were looking for."})]})}}}]);
+//# sourceMappingURL=344.cc875a6b.chunk.js.map
